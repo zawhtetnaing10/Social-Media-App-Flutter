@@ -1,2 +1,2 @@
-# PADC-Social-Media-App
-Social Media App to demonstrate components from Firebase
+# Social-Media-App-Flutter
+Social Media App to demonstrate components from Firebase using Flutter
